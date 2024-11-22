@@ -1,6 +1,6 @@
 # website-copier
 
-Java script ile  yazmış olduğum  bir  web site copier ( WEB SİTE Kopyalayıcısı ) 
+Javascript ile  yazmış olduğum  bir  web site copier ( WEB SİTE Kopyalayıcısı ) 
  CMD üzerinden işlem yapılır,  kullanımı oldukça basittir 
 
 Nasıl çalışır ; 
