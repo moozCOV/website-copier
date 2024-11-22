@@ -17,3 +17,6 @@ Dosya için de  kurulumu mevcuttur  ,   ilgilenen olursa  aşşağıda vereceği
 
 İletişim ; 
 Discord : mooz_cov
+
+
+EĞİTİM AMAÇLI YAPILMIŞTIR  , herhangi bir sorun vb. şeyler olduğu takdır de   sorumluluğu kabul etmiyorum. İYİ GÜNLER :)
