@@ -17,7 +17,7 @@ Dosya için de  kurulumu mevcuttur  ,   ilgilenen olursa  aşşağıda vereceği
 
 İletişim ; 
 Discord : mooz_cov
-
+https://www.itemsatis.com/ilanlarim.html
 
 EĞİTİM AMAÇLI YAPILMIŞTIR  , herhangi bir sorun vb. şeyler olduğu takdır de   sorumluluğu kabul etmiyorum. İYİ GÜNLER :)
 
@@ -34,5 +34,7 @@ It scans the files with the URL of the site you give to the system, takes the HT
 any private information etc. You just need to get the URL of the website you want with the command to be run. Installation is available for the file, if there is an attacker, they can be reached through the contact addresses below.
 
 Communication; Dispute: mooz_cov
+https://www.itemsatis.com/ilanlarim.html
+
 
 IT WAS MADE FOR EDUCATIONAL PURPOSES, any problems etc. If things happen, responsibility is accepted. HAVE A NICE DAY :)
